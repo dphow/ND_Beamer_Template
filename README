@@ -1,40 +1,44 @@
 This is a Beamer template set up to look pretty decent and have a
-University of Wisconsin theme.  It is, of course, better than the
-existing Powerpoint templates.
+University of Notre Dame theme.  It is, of course, better than the existing Powerpoint templates.
 
-The easiest way to install this theme is to just dump the *.sty files
-into the same directory as your tex source.
+The easiest way to install this theme is to just dump the *.sty files into the same directory as your tex source.
 
-A minimal Beamer presentation using this template looks something like
-the following:
+A minimal Beamer presentation using this template looks something like the following:
 
 \documentclass{beamer}
 
 
-\usetheme{Wisconsin}
+\usetheme{NotreDame}
 \begin{document}
 %% Slides
 \end{document}
 
 
 The theme currently has two options:
-  * nav          - This option includes a navigation bar in the
-                   lower-right corner of each slide
-  * white        - This option changes the color scheme to black-on-white
-                   for projectors with poor color balance
-  * nologo       - Suppress the crest in frame titles
-  * compactlogo  - Compact title logo (takes less vertical space)
+	% nav - Enables a bottom right navigation bar
+	% white - Sets slides for white color scheme
+	% nologo - Removes logo from all slides title bar
+	% compactlogo - Enables a compact banner for the title slide 			     (N/A currently)
+	% sections - Enables top of slide section progress tracking 			  and navigation
+	% noslidenumbers - Removes counting of slides in bottom 					   right
+	% fullFooter - Enables a more descriptive footer
 
 Options are specified as:
-  \usetheme[white]{Wisconsin}
+  \usetheme[nav,white]{NotreDame}
 
 Other suggested packages:
 * tikz (pgf, for diagrams)
 * listings (for source code listings)
 * fontspec (if using xetex)
 
+See included "main.tex" for suggested usage scenarios
 
 
+
+Author: Daniel Howard (dhoward3@nd.edu)
+Modified Release: February 2017
+
+Adapted from author below:
 Author: Tristan Ravitch (travitch@cs.wisc.edu)
 Initial Release: June 2009
 Public Domain
@@ -42,8 +46,6 @@ Public Domain
 
 Extra
 -----
-
-
 
 Here is a very handy snippet of TeX to stick at
 the beginning of your presentation (after \begin{document}):
@@ -61,8 +63,8 @@ the beginning of your presentation (after \begin{document}):
 \newcommand*{\Highlight}{\rlap{\textcolor{HighlightBackground}{\rule[-\highlightdepth]{\linewidth}{\highlightheight}}}}
 
 
-HighlightBackground is defined by the Wisconsin theme.  This
-snippet allows you to include source code listings in the
+HighlightBackground is defined by the NotreDame theme.
+This snippet allows you to include source code listings in the
 following way:
 
   \lstinputlisting[language=C,moredelim={**[il][\Highlight]{@}}]{file.c}
