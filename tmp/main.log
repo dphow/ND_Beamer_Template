@@ -1,0 +1,3126 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=latex 2016.12.7)  21 FEB 2017 01:14
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamer.cls"
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasercs.sty"
+Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+)
+Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (r
+cs-revision 8a39122e1f63)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasemodes.sty"
+Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasedecode.sty"
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseoptions.sty"
+Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\dvips.def"
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box34
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count105
+\c@pgf@countb=\count106
+\c@pgf@countc=\count107
+\c@pgf@countd=\count108
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-dvips.def
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-dvips.def"
+File: pgfsys-dvips.def 2014/07/09  (rcs-revision 1.25)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-postscr
+ipt.def"
+File: pgfsys-common-postscript.def 2008/10/01  (rcs-revision 1.22)
+\pgf@objectcount=\count109
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen139
+\extrarowheight=\dimen140
+\NC@list=\toks23
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+\everycr=\toks24
+\minrowclearance=\skip46
+)
+\rownum=\count112
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen141
+\pgfmath@count=\count113
+\pgfmath@box=\box35
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count114
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen142
+\pgf@picmaxx=\dimen143
+\pgf@picminy=\dimen144
+\pgf@picmaxy=\dimen145
+\pgf@pathminx=\dimen146
+\pgf@pathmaxx=\dimen147
+\pgf@pathminy=\dimen148
+\pgf@pathmaxy=\dimen149
+\pgf@xx=\dimen150
+\pgf@xy=\dimen151
+\pgf@yx=\dimen152
+\pgf@yy=\dimen153
+\pgf@zx=\dimen154
+\pgf@zy=\dimen155
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen156
+\pgf@path@lasty=\dimen157
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen158
+\pgf@shorten@start@additional=\dimen159
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count115
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen160
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen161
+\pgf@pt@y=\dimen162
+\pgf@pt@temp=\dimen163
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen164
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen165
+\pgf@sys@shading@range@num=\count116
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\xxcolor.sty"
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count117
+\XC@countmixins=\count118
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count121
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4362.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4362.
+Package hyperref Info: Option `implicit' set `false' on input line 4362.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count122
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen167
+\Fld@menulength=\count123
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count124
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (default): hdvips.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hdvips.def"
+File: hdvips.def 2016/06/24 v6.83q Hyperref driver for dvips
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pdfmark.def"
+File: pdfmark.def 2016/06/24 v6.83q Hyperref definitions for pdfmark specials
+\pdf@docset=\toks28
+\pdf@box=\box40
+\pdf@toks=\toks29
+\pdf@defaulttoks=\toks30
+\HyField@AnnotCount=\count125
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaserequires.sty"
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasecompatibility.sty
+"
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasefont.sty"
+Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks31
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\sansmathaccent.sty"
+Package: sansmathaccent 2013/03/28
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\filehook\filehook.sty"
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetranslator.sty"
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty"
+Package: translator 2010/06/12 ver 1.10
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-langu
+age-mappings.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasemisc.sty"
+Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetwoscreens.sty"
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseoverlay.sty"
+Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+\beamer@argscount=\count128
+\beamer@lastskipcover=\skip47
+\beamer@trivlistdepth=\count129
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetitle.sty"
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasesection.sty"
+Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+\c@lecture=\count130
+\c@part=\count131
+\c@section=\count132
+\c@subsection=\count133
+\c@subsubsection=\count134
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframe.sty"
+Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+\beamer@framebox=\box41
+\beamer@frametitlebox=\box42
+\beamer@zoombox=\box43
+\beamer@zoomcount=\count135
+\beamer@zoomframecount=\count136
+\beamer@frametextheight=\dimen170
+\c@subsectionslide=\count137
+\beamer@frametopskip=\skip48
+\beamer@framebottomskip=\skip49
+\beamer@frametopskipautobreak=\skip50
+\beamer@framebottomskipautobreak=\skip51
+\beamer@envbody=\toks32
+\framewidth=\dimen171
+\c@framenumber=\count138
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseverbatim.sty"
+Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+\beamer@verbatimfileout=\write4
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframesize.sty"
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box44
+\beamer@autobreakcount=\count139
+\beamer@autobreaklastheight=\dimen172
+\beamer@frametitletoks=\toks33
+\beamer@framesubtitletoks=\toks34
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframecomponents.s
+ty"
+Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+\beamer@footins=\box45
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasecolor.sty"
+Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasenotes.sty"
+Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+\beamer@frameboxcopy=\box46
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetoc.sty"
+Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetemplates.sty"
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks35
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseauxtemplates.sty"
+Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseboxes.sty"
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box47
+\bmb@colorbox=\box48
+\bmb@boxshadow=\box49
+\bmb@boxshadowball=\box50
+\bmb@boxshadowballlarge=\box51
+\bmb@temp=\dimen173
+\bmb@dima=\dimen174
+\bmb@dimb=\dimen175
+\bmb@prevheight=\dimen176
+)
+\beamer@blockheadheight=\dimen177
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaselocalstructure.st
+y"
+Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks36
+)
+\c@figure=\count140
+\c@table=\count141
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasenavigation.sty"
+Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
+\beamer@section@min@dim=\dimen178
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetheorems.sty"
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks37
+\ex@=\dimen179
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count142
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count143
+\leftroot@=\count144
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count145
+\DOTSCASE@=\count146
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count147
+\c@MaxMatrixCols=\count148
+\dotsspace@=\muskip11
+\c@parentequation=\count149
+\dspbrk@lvl=\count150
+\tag@help=\toks38
+\row@=\count151
+\column@=\count152
+\maxfields@=\count153
+\andhelp@=\toks39
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks40
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks41
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks42
+\thm@bodyfont=\toks43
+\thm@headfont=\toks44
+\thm@notefont=\toks45
+\thm@headpunct=\toks46
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks47
+)
+\c@theorem=\count154
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasethemes.sty"
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\theme\beamerthemedef
+ault.sty"
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\font\beamerfonttheme
+default.sty"
+Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamercolorthe
+medefault.sty"
+Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\inner\beamerinnerthe
+medefault.sty"
+Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
+\beamer@dima=\dimen188
+\beamer@dimb=\dimen189
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerouterthe
+medefault.sty"
+Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+))) (beamerthemeNotreDame.sty
+Package: beamerthemeNotreDame 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen190
+\TX@old@table=\dimen191
+\TX@old@col=\dimen192
+\TX@target=\dimen193
+\TX@delta=\dimen194
+\TX@cols=\count155
+\TX@ftn=\toks48
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\inner\beamerinnerthe
+mecircles.sty"
+Package: beamerinnerthemecircles 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerouterthe
+meminiframes.sty"
+Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
+) (beamercolorthemeNotreDameWhite.sty
+Package: beamercolorthemeNotreDameWhite 
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count156
+\U@D=\dimen195
+LaTeX Info: Redefining \textlatin on input line 1448.
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks49
+\inpenc@posthook=\toks50
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
+)
+\XKV@depth=\count157
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex"
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count158
+\pstFP@xia=\count159
+\pstFP@xib=\count160
+\pstFP@xfa=\count161
+\pstFP@xfb=\count162
+\pstFP@rega=\count163
+\pstFP@regb=\count164
+\pstFP@regs=\count165
+\pstFP@times=\count166
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks53
+\pgfutil@tempdima=\dimen196
+\pgfutil@tempdimb=\dimen197
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks54
+\pgffor@toks=\toks55
+)
+\psLoopIndex=\count167
+
+`PSTricks' v2.70  <2016/09/23> (tvz)
+\pst@dima=\dimen256
+\pst@dimb=\dimen257
+\pst@dimc=\dimen258
+\pst@dimd=\dimen259
+\pst@dimg=\dimen260
+\pst@dimh=\dimen261
+\pst@dimm=\dimen262
+\pst@dimn=\dimen263
+\pst@dimo=\dimen264
+\pst@dimp=\dimen265
+\pst@hbox=\box54
+\pst@ibox=\box55
+\pst@boxg=\box56
+\pst@cnta=\count168
+\pst@cntb=\count169
+\pst@cntc=\count170
+\pst@cntd=\count171
+\pst@cntg=\count172
+\pst@cnth=\count173
+\pst@cntm=\count174
+\pst@cntn=\count175
+\pst@cnto=\count176
+\pst@cntp=\count177
+\@zero=\count178
+\pst@toks=\toks56
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.con")
+\psunit=\dimen266
+\psxunit=\dimen267
+\psyunit=\dimen268
+\pst@C@@rType=\count179
+\pslinewidth=\dimen269
+\psk@startLW=\dimen270
+\psk@endLW=\dimen271
+\pst@customdefs=\toks57
+\pslinearc=\dimen272
+\pst@symbolStep=\dimen273
+\pst@symbolWidth=\dimen274
+\pst@symbolLinewidth=\dimen275
+\everypsbox=\toks58
+\psframesep=\dimen276
+\pslabelsep=\dimen277
+\sh@wgridXunit=\dimen278
+\sh@wgridYunit=\dimen279
+\pst@shift=\dimen280
+)
+File: pstricks.tex 2016/09/23 v2.70 `PSTricks' (tvz,hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex")
+File: pst-fp.tex 2016/09/23 v2.70 `PST-fp' (hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pst-node\pst-node.sty"
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-node\pst-node.tex"
+ v1.36, 2016/04/24
+\psrow=\count180
+\pscol=\count181
+\psmatrixcnt=\count182
+\psrowsep=\skip60
+\pscolsep=\skip61
+\pst@args=\count183
+\num@pts=\count184
+\pst@argcnt=\count185
+)
+File: pst-node.tex 2016/04/24 1.36 `pst-node' (tvz,hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pst-text\pst-text.sty"
+Package: pst-text 2006/01/01 package wrapper for pst-text.tex (hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-text\pst-text.tex"
+ v1.00, 2006/11/05(tvz,hv))
+File: pst-text.tex 2006/11/05 1.00 `pst-text' (tvz)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pst-3d\pst-3d.sty"
+Package: pst-3d 2009/07/28 package wrapper for pst-3d.tex (hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-3d\pst-3d.tex"
+`PST-3d' v1.11, 2010/02/14 (tvz))
+File: pst-3d.tex 2010/02/14 v1.11 `PST-3d' (hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count186
+\float@exts=\toks59
+\float@box=\box57
+\@float@everytoks=\toks60
+\@floatcapt=\box58
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
+Package: biblatex 2016/09/17 v3.6 programmable bibliographies (PK/JW/AB)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2016/12/01 v2.2b e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count188
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
+\@xs@message=\write5
+\integerpart=\count189
+\decimalpart=\count190
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count191
+\c@listtotal=\count192
+\c@listcount=\count193
+\c@liststart=\count194
+\c@liststop=\count195
+\c@citecount=\count196
+\c@citetotal=\count197
+\c@multicitecount=\count198
+\c@multicitetotal=\count199
+\c@instcount=\count266
+\c@maxnames=\count267
+\c@minnames=\count268
+\c@maxitems=\count269
+\c@minitems=\count270
+\c@citecounter=\count271
+\c@savedcitecounter=\count272
+\c@uniquelist=\count273
+\c@uniquename=\count274
+\c@refsection=\count275
+\c@refsegment=\count276
+\c@maxextratitle=\count277
+\c@maxextratitleyear=\count278
+\c@maxextrayear=\count279
+\c@maxextraalpha=\count280
+\c@abbrvpenalty=\count281
+\c@highnamepenalty=\count282
+\c@lownamepenalty=\count283
+\c@maxparens=\count284
+\c@parenlevel=\count285
+\blx@tempcnta=\count286
+\blx@tempcntb=\count287
+\blx@tempcntc=\count288
+\blx@maxsection=\count289
+\blx@maxsegment@0=\count290
+\blx@notetype=\count291
+\blx@parenlevel@text=\count292
+\blx@parenlevel@foot=\count293
+\blx@sectionciteorder@0=\count294
+\labelnumberwidth=\skip62
+\labelalphawidth=\skip63
+\biblabelsep=\skip64
+\bibitemsep=\skip65
+\bibnamesep=\skip66
+\bibinitsep=\skip67
+\bibparsep=\skip68
+\bibhang=\skip69
+\blx@bcfin=\read2
+\blx@bcfout=\write6
+\c@mincomprange=\count295
+\c@maxcomprange=\count296
+\c@mincompwidth=\count297
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def")
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count298
+\c@savedafterword=\count299
+\c@annotator=\count300
+\c@savedannotator=\count301
+\c@author=\count302
+\c@savedauthor=\count303
+\c@bookauthor=\count304
+\c@savedbookauthor=\count305
+\c@commentator=\count306
+\c@savedcommentator=\count307
+\c@editor=\count308
+\c@savededitor=\count309
+\c@editora=\count310
+\c@savededitora=\count311
+\c@editorb=\count312
+\c@savededitorb=\count313
+\c@editorc=\count314
+\c@savededitorc=\count315
+\c@foreword=\count316
+\c@savedforeword=\count317
+\c@holder=\count318
+\c@savedholder=\count319
+\c@introduction=\count320
+\c@savedintroduction=\count321
+\c@namea=\count322
+\c@savednamea=\count323
+\c@nameb=\count324
+\c@savednameb=\count325
+\c@namec=\count326
+\c@savednamec=\count327
+\c@translator=\count328
+\c@savedtranslator=\count329
+\c@shortauthor=\count330
+\c@savedshortauthor=\count331
+\c@shorteditor=\count332
+\c@savedshorteditor=\count333
+\c@labelname=\count334
+\c@savedlabelname=\count335
+\c@institution=\count336
+\c@savedinstitution=\count337
+\c@lista=\count338
+\c@savedlista=\count339
+\c@listb=\count340
+\c@savedlistb=\count341
+\c@listc=\count342
+\c@savedlistc=\count343
+\c@listd=\count344
+\c@savedlistd=\count345
+\c@liste=\count346
+\c@savedliste=\count347
+\c@listf=\count348
+\c@savedlistf=\count349
+\c@location=\count350
+\c@savedlocation=\count351
+\c@organization=\count352
+\c@savedorganization=\count353
+\c@origlocation=\count354
+\c@savedoriglocation=\count355
+\c@origpublisher=\count356
+\c@savedorigpublisher=\count357
+\c@publisher=\count358
+\c@savedpublisher=\count359
+\c@language=\count360
+\c@savedlanguage=\count361
+\c@pageref=\count362
+\c@savedpageref=\count363
+\shorthandwidth=\skip70
+\shortjournalwidth=\skip71
+\shortserieswidth=\skip72
+\shorttitlewidth=\skip73
+\shortauthorwidth=\skip74
+\shorteditorwidth=\skip75
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
+File: blx-compat.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
+File: biblatex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count364
+\c@textcitetotal=\count365
+\c@textcitemaxnames=\count366
+\c@biburlnumpenalty=\count367
+\c@biburlucpenalty=\count368
+\c@biburllcpenalty=\count369
+\c@smartand=\count370
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric-comp.bbx"
+File: numeric-comp.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
+File: numeric.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
+File: standard.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count371
+\c@bbx:relatedtotal=\count372
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric-comp.cbx"
+File: numeric-comp.cbx 2016/09/17 v3.6 biblatex citation style (PK/JW/AB)
+\c@cbx@tempcnta=\count373
+\c@cbx@tempcntb=\count374
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
+File: biblatex.cfg 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime.sty"
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty"
+Package: fmtcount 2015/05/05 v3.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty"
+Package: fcprefix 2012/09/28
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.sty"
+Package: fcnumparser 2012/09/28
+\fc@digit@counter=\count375
+))
+\c@padzeroesN=\count376
+\fc@tmpcatcode=\count377
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-english.def"
+File: fc-english.def 2013/08/17
+)
+\@DT@modctr=\count378
+\@ordinalctr=\count379
+\@orgargctr=\count380
+\@strctr=\count381
+\@tmpstrctr=\count382
+\@DT@loopN=\count383
+\@DT@X=\count384
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime-defaults.sty"
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count385
+\@month=\count386
+\@year=\count387
+\c@HOUR=\count388
+\c@HOURXII=\count389
+\c@MINUTE=\count390
+\c@TOHOUR=\count391
+\c@TOMINUTE=\count392
+\c@SECOND=\count393
+\currenthour=\count394
+\currentminute=\count395
+\currentsecond=\count396
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count397
+\dayofyear=\count398
+\dayofweek=\count399
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks61
+\dt@b=\toks62
+)
+
+! LaTeX Error: Command \blue already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 ...nd{\blue}[1]{\usebeamercolor[fg]{blue}#1}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \red already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 ...mand{\red}[1]{\usebeamercolor[fg]{red}#1}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \black already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 ...{\black}[1]{\usebeamercolor[fg]{black}#1}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \green already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...{\green}[1]{\usebeamercolor[fg]{green}#1}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
+File: english.lbx 2016/09/17 v3.6 biblatex localization (PK/JW/AB)
+)
+
+Package biblatex Warning: Patching footnotes failed.
+(biblatex)                Footnote detection will not work.
+
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count400
+\@quotereset=\count401
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 122.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 122.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box59
+Package hyperref Info: Link coloring OFF on input line 122.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count402
+)
+LaTeX Info: Redefining \ref on input line 122.
+LaTeX Info: Redefining \pageref on input line 122.
+LaTeX Info: Redefining \nameref on input line 122.
+
+(main.out) (main.out)
+\@outlinefile=\write7
+\openout7 = `main.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/ztmcm/m/n --> OT1/cmss/m/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ztmcm/m/n --> OT1/cmss/bx/n on input line 122.
+\symnumbers=\mathgroup8
+\sympureletters=\mathgroup9
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/ptm/bx/n --> T1/phv/bx/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/ptm/bx/n --> T1/phv/bx/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/ptm/m/it --> T1/phv/m/it on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ptm/m/it --> T1/phv/m/it on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 122.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-basic-dictionary\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-bibliography-dictionary\translator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-environment-dictionary\translator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-months-dictionary\translator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-numbers-dictionary\translator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-theorem-dictionary\translator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 122.
+Package biblatex Info: Input encoding 'latin1' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'latin1'.
+\openout6 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 122.
+Package biblatex Info: Reference segment=0 on input line 122.
+
+(main.nav)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.39996pt on input line 122.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 128.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 12
+8.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 12
+8.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 12
+8.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 128.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 9.85492pt on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 7.19995pt on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 5.39996pt on input line 128.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 128.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 4.49997pt on input line 128.
+File: ND_Logos/college_of_science/science_mark_black.eps Graphic file (type eps
+)
+
+<ND_Logos/college_of_science/science_mark_black.eps> [1
+
+] (main.toc
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 7.
+)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 3.59998pt on input line 137.
+ [2
+
+] (document.tex (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [3
+
+]
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 17.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 17.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 17.
+ [4
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [5
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [6
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [7
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [8
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [9
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [10
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [11
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [12
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [13
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [14
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [15
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [16
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [17
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [18
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [19
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [20
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb
+! Undefined control sequence.
+<recently read> \bs 
+                    
+l.21 ...Colors predefined in \textsc{pstricks}\}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [21
+
+] (main.vrb
+! Undefined control sequence.
+<recently read> \bs 
+                    
+l.21 ...Colors predefined in \textsc{pstricks}\}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [22
+
+] (main.vrb
+! Undefined control sequence.
+<recently read> \bs 
+                    
+l.21 ...Colors predefined in \textsc{pstricks}\}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [23
+
+] (main.vrb
+! Undefined control sequence.
+<recently read> \bs 
+                    
+l.21 ...Colors predefined in \textsc{pstricks}\}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [24
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [25
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [26
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [27
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [28
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [29
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [30
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [31
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [32
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [33
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [34
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [35
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [36
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [37
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [38
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [39
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [40
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [41
+
+]
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 227.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} is used to replace the first line
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [42
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} is used to replace the first line
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [43
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} is used to replace the first line
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [44
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} is used to replace the first line
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [45
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} is used to replace the first line
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [46
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} is used to replace the first line
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.227 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [47
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb
+! Undefined control sequence.
+<argument> Uses \bs 
+                    {\blue {alt}} and \bs {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Uses \bs {\blue {alt}} and \bs 
+                                          {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [48
+
+] (main.vrb
+! Undefined control sequence.
+<argument> Uses \bs 
+                    {\blue {alt}} and \bs {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Uses \bs {\blue {alt}} and \bs 
+                                          {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [49
+
+] (main.vrb
+! Undefined control sequence.
+<argument> Uses \bs 
+                    {\blue {alt}} and \bs {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Uses \bs {\blue {alt}} and \bs 
+                                          {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [50
+
+] (main.vrb
+! Undefined control sequence.
+<argument> Uses \bs 
+                    {\blue {alt}} and \bs {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Uses \bs {\blue {alt}} and \bs 
+                                          {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [51
+
+] (main.vrb
+! Undefined control sequence.
+<argument> Uses \bs 
+                    {\blue {alt}} and \bs {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Uses \bs {\blue {alt}} and \bs 
+                                          {\blue {visible}}, as opposed to \...
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}.
+l.16 ...le}}, as opposed to \bs {\blue{uncover}}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [52
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb
+! Undefined control sequence.
+l.2 Use of  \bs
+               {\blue{phantom}} to add invisible text to 3rd overlay to ensu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2 ...verlay to ensure correct alignment when \bs
+                                                   {\blue{alt}} string is lo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [53
+
+] (main.vrb
+! Undefined control sequence.
+l.2 Use of  \bs
+               {\blue{phantom}} to add invisible text to 3rd overlay to ensu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2 ...verlay to ensure correct alignment when \bs
+                                                   {\blue{alt}} string is lo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [54
+
+] (main.vrb
+! Undefined control sequence.
+l.2 Use of  \bs
+               {\blue{phantom}} to add invisible text to 3rd overlay to ensu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2 ...verlay to ensure correct alignment when \bs
+                                                   {\blue{alt}} string is lo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [55
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} replaces the first line
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [56
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} replaces the first line
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [57
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} replaces the first line
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [58
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} replaces the first line
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [59
+
+]
+! Undefined control sequence.
+<argument> \bs 
+               {\blue {alt}} replaces the first line
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> and then \bs 
+                        {\blue {visible}}, as opposed to \bs {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...\blue {visible}}, as opposed to \bs 
+                                                  {\blue {uncover}}
+l.286 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [60
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+Overfull \vbox (6.64236pt too high) detected at line 317
+ []
+
+[61
+
+] (main.vrb) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+Overfull \vbox (6.64236pt too high) detected at line 317
+ []
+
+[62
+
+] (main.vrb) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+Overfull \vbox (6.64236pt too high) detected at line 317
+ []
+
+[63
+
+] (main.vrb) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+Overfull \vbox (6.64236pt too high) detected at line 317
+ []
+
+[64
+
+] (main.vrb) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+Overfull \vbox (6.64236pt too high) detected at line 317
+ []
+
+[65
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [66
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [67
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [68
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [69
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [70
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [71
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 363.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [72
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [73
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [74
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [75
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [76
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [77
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [78
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [79
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb
+! Undefined control sequence.
+l.6  {\blue{\bs
+                documentclass[t,handout]\{beamer\}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.11557pt too wide) in paragraph at lines 21--21
+ []  \T1/pcr/m/n/10.95 \item the \texttt{\blue{t}} option specifies ....[] 
+ []
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [80
+
+] (main.vrb
+! Undefined control sequence.
+l.6  {\blue{\bs
+                documentclass[t,handout]\{beamer\}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.11557pt too wide) in paragraph at lines 21--21
+ []  \T1/pcr/m/n/10.95 \item the \texttt{\blue{t}} option specifies ....[] 
+ []
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [81
+
+] (main.vrb
+! Undefined control sequence.
+l.6  {\blue{\bs
+                documentclass[t,handout]\{beamer\}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.11557pt too wide) in paragraph at lines 21--21
+ []  \T1/pcr/m/n/10.95 \item the \texttt{\blue{t}} option specifies ....[] 
+ []
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [82
+
+]
+! Undefined control sequence.
+\beamer@doifinframe ...he header \par {\blue {\bs 
+                                                  documentclass\{article\}}}...
+l.449  \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\beamer@doifinframe ...d package \par {\blue {\bs 
+                                                  usepackage\{beamerarticle\...
+l.449  \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [83
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [84
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb
+LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
+(Font)              scaled to size 9.85492pt on input line 5.
+)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [85
+
+] (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [86
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [87
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [88
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [89
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\T1/phv/m/n/10.95 ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--ICMS--
+ []
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [90
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [91
+
+] (main.toc)
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [92
+
+]
+\openout4 = `main.vrb'.
+
+ (main.vrb
+Overfull \hbox (58.47421pt too wide) in paragraph at lines 6--6
+[]\T1/pcr/m/n/10.95 \includemedia[width=2.5in,height=1.75in,showcontrols,poster
+]%[] 
+ []
+
+) <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [93
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 596.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 596.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 6.65994pt on input line 596.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 596.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.99994pt on input line 596.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 596.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 6.65994pt on input line 596.
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [94
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [95
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [96
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [97
+
+]
+File: beamericonarticle.eps Graphic file (type eps)
+ <beamericonarticle.eps>
+File: beamericonarticle.eps Graphic file (type eps)
+
+<beamericonarticle.eps>
+File: beamericonarticle.eps Graphic file (type eps)
+ <beamericonarticle.eps>
+File: beamericonarticle.eps Graphic file (type eps)
+ <beamericonarticle.eps>
+File: beamericonarticle.eps Graphic file (type eps)
+
+<beamericonarticle.eps>
+File: beamericonarticle.eps Graphic file (type eps)
+ <beamericonarticle.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+Overfull \vbox (22.83997pt too high) detected at line 602
+ []
+
+[98
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 22.39185pt on input line 609.
+ <ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [99
+
+]
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps>
+File: ND_Logos/monogram/ND_monogram_gold_metallic.eps Graphic file (type eps)
+
+<ND_Logos/monogram/ND_monogram_gold_metallic.eps> [100
+
+])
+\tf@nav=\write8
+\openout8 = `main.nav'.
+
+\tf@toc=\write9
+\openout9 = `main.toc'.
+
+\tf@snm=\write10
+\openout10 = `main.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+ (main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 140.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 7967B104872E803FE2641DAB930FCE6A;682.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
+ ) 
+Here is how much of TeX's memory you used:
+ 27239 strings out of 493334
+ 500175 string characters out of 3139174
+ 1012027 words of memory out of 3000000
+ 30039 multiletter control sequences out of 15000+200000
+ 77795 words of font info for 104 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,20n,68p,1131b,2115s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on main.dvi (100 pages, 4147528 bytes).

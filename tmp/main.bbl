@@ -1,0 +1,171 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{coldingminicozzi1999}{book}{}
+      \name{author}{2}{}{%
+        {{hash=64c04eb5c0f2af359cb33f147158a772}{%
+           family={Colding},
+           familyi={C\bibinitperiod},
+           given={T.H.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fab53d52df49e4153707c3b97ef62f12}{%
+           family={Minicozzi},
+           familyi={M\bibinitperiod},
+           given={W.P.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Courant Lecture Notes in Math}%
+      }
+      \strng{namehash}{a05836ff0dc6966b4fe4f80c836ea416}
+      \strng{fullhash}{a05836ff0dc6966b4fe4f80c836ea416}
+      \strng{authornamehash}{a05836ff0dc6966b4fe4f80c836ea416}
+      \strng{authorfullhash}{a05836ff0dc6966b4fe4f80c836ea416}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Minimal Surfaces}
+      \field{year}{1999}
+    \endentry
+    \entry{Ful83}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=205bfcbd8ec5b58401ee1d5cbd94a5de}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{205bfcbd8ec5b58401ee1d5cbd94a5de}
+      \strng{fullhash}{205bfcbd8ec5b58401ee1d5cbd94a5de}
+      \strng{authornamehash}{205bfcbd8ec5b58401ee1d5cbd94a5de}
+      \strng{authorfullhash}{205bfcbd8ec5b58401ee1d5cbd94a5de}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Regional Conference Series in Mathematics}
+      \field{number}{54}
+      \field{title}{Introduction to intersection theory in algebraic geometry}
+      \field{year}{1983}
+    \endentry
+    \entry{GMP81}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b15942e14abdb631ba51589b6335f824}{%
+           family={Goresky},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1a0002b3b9ae04202872e159c0ec9712}{%
+           family={MacPherson},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c3535441b3c2a883f5637805dfd81be}
+      \strng{fullhash}{5c3535441b3c2a883f5637805dfd81be}
+      \strng{authornamehash}{5c3535441b3c2a883f5637805dfd81be}
+      \strng{authorfullhash}{5c3535441b3c2a883f5637805dfd81be}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Algebraic Geometry Proceedings, La Rábida, Lecture Notes in Mathematics}
+      \field{number}{961}
+      \field{title}{On the topology of complex algebraic maps}
+      \field{year}{1981}
+    \endentry
+    \entry{gulliver1976}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f033a5898100a5bb698b78ffc22651e2}{%
+           family={Gulliver},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f033a5898100a5bb698b78ffc22651e2}
+      \strng{fullhash}{f033a5898100a5bb698b78ffc22651e2}
+      \strng{authornamehash}{f033a5898100a5bb698b78ffc22651e2}
+      \strng{authorfullhash}{f033a5898100a5bb698b78ffc22651e2}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Differential Geometry}
+      \field{title}{Removability of Singular points on Surfaces of Bounded Mean Curvature}
+      \field{volume}{11}
+      \field{year}{1976}
+      \field{pages}{345\bibrangedash 350}
+      \range{pages}{6}
+    \endentry
+    \entry{PP98}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=7bc526095771e4915d46fd5359792a5f}{%
+           family={Parusi\'{n}ski},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5837c00e51b4f86c3c65a17acb79936c}{%
+           family={Pragacz},
+           familyi={P\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \strng{fullhash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \strng{authornamehash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \strng{authorfullhash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{note}{preprint}
+      \field{title}{Characteristic classes of hypersurfaces and characteristic cycles}
+      \field{year}{1998}
+    \endentry
+    \entry{Pat85}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=cd8880206e2f4434d45288327e7bf192}{%
+           family={Pati},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Princeton}%
+      }
+      \strng{namehash}{cd8880206e2f4434d45288327e7bf192}
+      \strng{fullhash}{cd8880206e2f4434d45288327e7bf192}
+      \strng{authornamehash}{cd8880206e2f4434d45288327e7bf192}
+      \strng{authorfullhash}{cd8880206e2f4434d45288327e7bf192}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is the title??}
+      \field{type}{phdthesis}
+      \field{year}{1985}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -1,0 +1,15 @@
+\frametitle{Including Movies}
+\begin{verbatim}
+*in preamble -> \usepackage{movie9}
+\includemedia[width=2.5in,height=1.75in,showcontrols,poster]%
+            {}{sample.mp4}
+\end{verbatim}
+
+\href{run:sample.mp4}{Link to movie}
+\medskip
+
+
+You can try to ``embed'' the movie with the example text above
+(Note: The \texttt{.mp4} file must still reside in the same folder as the
+\texttt{pdf} file), but referencing it for the OS to play outside of the pdf
+reader will give the greatest compatibility.
