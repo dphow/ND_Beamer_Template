@@ -1,5 +1,5 @@
 This is a Beamer template set up to look pretty decent and have a
-University of Notre Dame theme.  It is, of course, better than the existing Powerpoint templates.
+University of Notre Dame theme.  For math typesetting, it is definitely better than using existing Powerpoint templates.
 
 The easiest way to install this theme is to just dump the *.sty files into the same directory as your tex source.
 
@@ -14,14 +14,14 @@ A minimal Beamer presentation using this template looks something like the follo
 \end{document}
 
 
-The theme currently has two options:
+The theme currently has 7 options:
 	% nav - Enables a bottom right navigation bar
 	% white - Sets slides for white color scheme
 	% nologo - Removes logo from all slides title bar
-	% compactlogo - Enables a compact banner for the title slide 			     (N/A currently)
-	% sections - Enables top of slide section progress tracking 			  and navigation
-	% noslidenumbers - Removes counting of slides in bottom 					   right
-	% fullFooter - Enables a more descriptive footer
+	% compactlogo - Enables a compact banner for the title slide (N/A currently)
+	% sections - Enables top of slide section progress tracking and navigation
+	% noslidenumbers - Removes counting of slides in bottom right
+	% fullFooter - Enables a more descriptive footer (can't use noslidenumbers simultaneously)
 
 Options are specified as:
   \usetheme[nav,white]{NotreDame}
